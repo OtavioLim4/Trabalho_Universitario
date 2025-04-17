@@ -4,8 +4,6 @@
 #define TAMProd 3
 #define TAMVendas 100
 
-int main(){
-
 
 typedef struct {
     int id;
